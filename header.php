@@ -60,10 +60,11 @@
        <li><a href="index.php">HOME</a></li>
         <li><a href="about.php">ABOUT</a></li>
         <li><a href="events.php">EVENTS</a></li>
-        <li><a href="hackathon.php">HACKATHON</a>
-          <ul>
-            <li>Rules</li>
-            <li>Disclaimer</li>  
+        <li role="presentation" class="dropdown"><a class="dropdown-toggle"  href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HACKATHON <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+              <li><a href="hackathon.php">Apply</a></li>
+              <li><a href="#">Rules</a></li>
+              <li><a href="#">Disclaimer</a></li>  
             
             </ul>
           
