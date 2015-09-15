@@ -25,7 +25,7 @@
 					<td>Intro/Preview/Variables/Expressions</td>
 					<td>September 9, 2015</td>
 					<td>6:15pm-7:30pm</td>
-					<td>TBA</td>
+					<td>Student Life Building 121</td>
 				</tr>
 				
 				<tr>
@@ -33,23 +33,31 @@
 					<td>Control Flow Statements/Recursion</td>
 					<td>September 16, 2015</td>
 					<td>6:15pm-7:30pm</td>
-					<td>TBA</td>
+					<td>Student Life Building 121</td>
 				</tr>
 				
 				<tr>
 					<td>3</td>
 					<td>Networking Workshop</td>
-					<td>September 23, 2015</td>
+					<td>September 24, 2015</td>
 					<td>3:00pm-4:00pm</td>
-					<td>TBA</td>
+					<td>Student Life Building 121</td>
 				</tr>
 				
-				<tr>
+                    <tr>
 					<td>4</td>
+					<td>WOS Resume Writing</td>
+					<td>September 24, 2015</td>
+					<td>4:00pm-5:30pm</td>
+					<td>Gilet Hall Room 231</td>
+				</tr>
+                    
+				<tr>
+					<td>5</td>
 					<td>Java Class/Methods</td>
 					<td>September 30, 2015</td>
 					<td>6:15pm-7:30pm</td>
-					<td>TBA</td>
+					<td>Student Life BUilding Room 121</td>
 				</tr>
 				</table>
 			</div>
@@ -62,18 +70,30 @@
 					<th>Date</th>
 					<th>Time</th>
 					<th>Location</th>
+                    <th>Register</th>
 				</tr>
 			
 				<tr>
 					<td>1</td>
 					<td>NSBE Fall Zone Conference</td>
 					<td>October 3, 2015</td>
-					<td>9:00am-7:00pm</td>
+					<td>8:30am-7:00pm</td>
 					<td>NYIT Old Westbery</td>
+                    <td><button type ="button">Sigh up</button> </td>
+                    
+				</tr>
+                    
+                    <tr>
+					<td>2</td>
+					<td>WOS Effective Online Search and Career Fair Techniques</td>
+					<td>October 7, 2015</td>
+					<td>4:00pm-5:30pm</td>
+					<td>Gilet Hall Room 231</td>
 				</tr>
 				
+				
 				<tr>
-					<td>2</td>
+					<td>3</td>
 					<td>Bank Account - Part I</td>
 					<td>October 7, 2015</td>
 					<td>6:15pm-7:30pm</td>
@@ -81,7 +101,7 @@
 				</tr>
 				
 				<tr>
-					<td>3</td>
+					<td>4</td>
 					<td>Bank Account - Part II</td>
 					<td>October 14, 2015</td>
 					<td>6:15pm-7:30pm</td>
@@ -89,7 +109,7 @@
 				</tr>
 				
 				<tr>
-					<td>4</td>
+					<td>5</td>
 					<td>Lehman College 2nd Annual Hackathon</td>
 					<td>October 16-17, 2015</td>
 					<td>9:00am-12:30pm</td>
@@ -97,20 +117,38 @@
 				</tr>
 				                    
                 <tr>
-					<td>5</td>
+					<td>6</td>
 					<td>Bank Account - Part III</td>
 					<td>October 21, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>TBA</td>
 				</tr>
                     
+                <tr>
+					<td>7</td>
+					<td>WOS Interviewing in person and on the phone</td>
+					<td>October 22, 2015</td>
+					<td>4:00pm-5:30pm</td>
+					<td>Gilet Hall Room 231</td>
+                </tr>
+                    
 				<tr>
-					<td>6</td>
+					<td>8</td>
 					<td>NSBE 30Sec Pitch Competition</td>
 					<td>October 22, 2015</td>
 					<td>6:00pm-7:00pm</td>
 					<td>TBA</td>
 				</tr>
+                    
+                 <tr>
+					<td>9</td>
+					<td>WOS Professionalism in the Work Place</td>
+					<td>October 7, 2015</td>
+					<td>4:00pm-5:30pm</td>
+					<td>Gilet Hall Room 231</td>
+				</tr>
+				    
+                    
 				</table>
 			</div>
 			
@@ -133,13 +171,32 @@
 						<td>TBA</td>
 					</tr>
                     
-					<tr>
-						<td>2</td>
-						<td>Lehman College NSBE Election Day</td>
-						<td>November 19, 2015</td>
-						<td>6:00pm-7:30pm</td>
-						<td>TBA</td>
-					</tr>
+                <tr>
+					<td>2</td>
+					<td>WOS Linkedin and Social Media Etiquette</td>
+					<td>November 12, 2015</td>
+					<td>4:00pm-5:30pm</td>
+					<td>Gilet Hall Room 231</td>
+                </tr>				
+                    
+                    
+				<tr>
+				    <td>3</td>
+					<td>Lehman NSBE Election Day</td>
+                    <td>November 17, 2015</td>
+					<td>3:00pm-4:30pm</td>
+                    <td>Student Life Room 205C</td>
+				</tr>
+                    
+                 <tr>
+					<td>4</td>
+					<td>WOS Business Writing Essentials</td>
+					<td>November 19, 2015</td>
+					<td>4:00pm-5:30pm</td>
+					<td>Gilet Hall Room 231</td>
+				</tr>
+				    
+                    
 				</table>
 			</div>
 			
