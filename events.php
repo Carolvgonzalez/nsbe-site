@@ -18,6 +18,7 @@
 					<th>Date</th>
 					<th>Time</th>
 					<th>Location</th>
+                    <th>Registration</th>
 				</tr>
 			
 				<tr>
@@ -26,6 +27,7 @@
 					<td>September 9, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>Student Life Building 121</td>
+                    <td><button type ="button">Sigh up</button> </td>
 				</tr>
 				
 				<tr>
@@ -34,6 +36,7 @@
 					<td>September 16, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>Student Life Building 121</td>
+                    <td><button type ="button">Sigh up</button> </td>
 				</tr>
 				
 				<tr>
@@ -42,6 +45,7 @@
 					<td>September 24, 2015</td>
 					<td>3:00pm-4:00pm</td>
 					<td>Student Life Building 121</td>
+                    <td><button type ="button">Sigh up</button> </td>
 				</tr>
 				
                     <tr>
@@ -50,6 +54,7 @@
 					<td>September 24, 2015</td>
 					<td>4:00pm-5:30pm</td>
 					<td>Gilet Hall Room 231</td>
+                    <td><button type ="button">Sigh up</button> </td>
 				</tr>
                     
 				<tr>
@@ -58,6 +63,7 @@
 					<td>September 30, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>Student Life BUilding Room 121</td>
+                    <td><button type ="button">Sigh up</button> </td>
 				</tr>
 				</table>
 			</div>
@@ -70,7 +76,7 @@
 					<th>Date</th>
 					<th>Time</th>
 					<th>Location</th>
-                    <th>Register</th>
+                    <th>Registration</th>
 				</tr>
 			
 				<tr>
@@ -89,6 +95,7 @@
 					<td>October 7, 2015</td>
 					<td>4:00pm-5:30pm</td>
 					<td>Gilet Hall Room 231</td>
+                    <td><button type ="button">Sigh up</button></td>
 				</tr>
 				
 				
@@ -98,6 +105,7 @@
 					<td>October 7, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>TBA</td>
+                    <td><button type ="button">Sigh up</button> </td>
 				</tr>
 				
 				<tr>
@@ -113,7 +121,8 @@
 					<td>Lehman College 2nd Annual Hackathon</td>
 					<td>October 16-17, 2015</td>
 					<td>9:00am-12:30pm</td>
-					<td>East & Faculty Dinning Hall</td>
+					<td>East Dinning Hall</td>
+                    <td><button type ="button">Sigh up</button> </td>
 				</tr>
 				                    
                 <tr>
@@ -122,6 +131,7 @@
 					<td>October 21, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>TBA</td>
+                    <td><button type ="button">Sigh up</button> </td>
 				</tr>
                     
                 <tr>
@@ -130,6 +140,7 @@
 					<td>October 22, 2015</td>
 					<td>4:00pm-5:30pm</td>
 					<td>Gilet Hall Room 231</td>
+                    <td><button type ="button">Sigh up</button> </td>
                 </tr>
                     
 				<tr>
@@ -138,6 +149,7 @@
 					<td>October 22, 2015</td>
 					<td>6:00pm-7:00pm</td>
 					<td>TBA</td>
+                    <td><button type ="button">Sigh up</button> </td>
 				</tr>
                     
                  <tr>
@@ -146,6 +158,7 @@
 					<td>October 7, 2015</td>
 					<td>4:00pm-5:30pm</td>
 					<td>Gilet Hall Room 231</td>
+                    <td><button type ="button">Sigh up</button> </td>
 				</tr>
 				    
                     
@@ -155,28 +168,31 @@
 			<h3>November 2015 </h3>
 			<div> 	
 				<table class = "table table-hover">
-					<tr class="active"> 
-						<th>#</th>
-						<th>Event Name </th>
-						<th>Date</th>
-						<th>Time</th>
-						<th>Location</th>
-					</tr>
-				
-                    <tr>
-						<td>1</td>
-						<td>Intro to Multimedia & Student Request</td>
-						<td>November 4, 2015</td>
-						<td>6:05pm-7:55pm</td>
-						<td>TBA</td>
-					</tr>
-                    
+                <tr class="active"> 
+                    <th>#</th>
+                    <th>Event Name </th>
+                    <th>Date</th>
+                    <th>Time</th>
+                    <th>Location</th>
+                    <th>Registration</th>
+                </tr>
+
+                <tr>
+                    <td>1</td>
+                    <td>Intro to Multimedia & Student Request</td>
+                    <td>November 4, 2015</td>
+                    <td>6:05pm-7:55pm</td>
+                    <td>TBA</td>
+                    <td><button type ="button">Sigh up</button> </td>
+                </tr>
+
                 <tr>
 					<td>2</td>
 					<td>WOS Linkedin and Social Media Etiquette</td>
 					<td>November 12, 2015</td>
 					<td>4:00pm-5:30pm</td>
 					<td>Gilet Hall Room 231</td>
+                    <td><button type ="button">Sigh up</button> </td>
                 </tr>				
                     
                     
@@ -186,6 +202,7 @@
                     <td>November 17, 2015</td>
 					<td>3:00pm-4:30pm</td>
                     <td>Student Life Room 205C</td>
+                    <td><button type ="button">Sigh up</button> </td>
 				</tr>
                     
                  <tr>
@@ -194,6 +211,7 @@
 					<td>November 19, 2015</td>
 					<td>4:00pm-5:30pm</td>
 					<td>Gilet Hall Room 231</td>
+                    <td><button type ="button">Sigh up</button> </td>
 				</tr>
 				    
                     
@@ -209,6 +227,7 @@
 						<th>Date</th>
 						<th>Time</th>
 						<th>Location</th>
+                        <th>Registration</th>
 					</tr>
 				
 					<tr>
@@ -216,7 +235,8 @@
 						<td>Lehman College NSBE Final Meeting</td>
 						<td>December 8, 2015</td>
 						<td>3:00pm-5:30pm</td>
-						<td>TBA</td>
+						<td>Student Life Building Room 205C</td>
+                        <td><button type ="button">Sigh up</button> </td>
 					</tr>
 				</table>
 			</div>
