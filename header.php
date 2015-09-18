@@ -23,7 +23,9 @@
       
     <!--grid css -->
     <link href = "css/grid.css" rel="stylesheet">
-        
+    
+    <!--font awesome-->
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
       
     <!-- Custom CSS file -->
     <link href="css/main.css" rel="stylesheet">
