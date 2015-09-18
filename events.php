@@ -35,7 +35,7 @@
 				</tr>
                 <tr>
                     <td class = "test" colspan = "6">Students will learn the                             history of java, learn how to assign variables
-                      and how to use expressions. Student will code in class.                         </td>    
+                      and how to use expressions. Students will code in class.                         </td>    
                 </tr>
 
 				<tr class = "beta">
@@ -44,12 +44,12 @@
 					<td>September 16, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>Student Life Building 121</td>
-                    <td><button type ="button">Sign Up</button> </td>
+                    <td><button type ="button" href = "http://goo.gl/forms/Iy1gSF3v9g">Sign Up</button> </td>
 				</tr>
 				
                 <tr>
                     <td class = "test" colspan = "6">Students will learn how use                         control flow statements (if, if else, else and switch)
-                   and learn how to create a recursion. Students will code in                         class</td>    
+                   and learn how to create a recursive function. Students will                          code in class</td>    
                 </tr>
                     
 				<tr class = "beta">
@@ -138,6 +138,7 @@
 					<td>October 14, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>TBA</td>
+                    <td><button type ="button">Sign Up</button> </td>
 				</tr>
 				
                     <td class = "test" colspan = "6">Students will learn how to create Java class and how to implement methods </td>    
@@ -182,7 +183,7 @@
                 </tr>
 
 
-                <tr>
+                <tr class = "beta">
 					<td>8</td>
 					<td>WOS Interviewing Skills</td>
 					<td>October 22, 2015</td>
@@ -195,7 +196,7 @@
                 </tr>
 
                     
-				<tr>
+				<tr class = "beta">
 					<td>9</td>
 					<td>NSBE 30Sec Pitch Competition</td>
 					<td>October 22, 2015</td>
@@ -222,7 +223,7 @@
                     <th>Registration</th>
                 </tr>
 
-                <tr>
+                <tr class = "beta">
                     <td>1</td>
                     <td>Intro to Multimedia & Student Request</td>
                     <td>November 4, 2015</td>
@@ -234,10 +235,10 @@
                 <td class = "test" colspan = "6">Students will learn how to create Java class and how to implement methods </td>    
                 </tr>
                    
-                <tr>
+                <tr class = "beta">
 					<td>2</td>
 					<td>WOS Professionalism in the workplace</td>
-					<td>October 12, 2015</td>
+					<td>November 12, 2015</td>
 					<td>4:00pm-5:30pm</td>
 					<td>Gilet Hall Room 231</td>
                     <td><button type ="button">Sign Up</button></td>
@@ -246,7 +247,7 @@
                 <td class = "test" colspan = "6">This workshop is mostly aimed at teenagers, entry-level employees and recent graduates who are interested in developing their interpersonal skills to navigate the complexities of a workplace. The topics include communication skills, problem solving, self-confidence, accountability, humility and cultural awareness. </td>    
                 </tr>
                        
-				<tr>
+				<tr class = "beta">
 				    <td>3</td>
 					<td>Lehman NSBE Election Day</td>
                     <td>November 17, 2015</td>
@@ -259,7 +260,7 @@
 elect their new officals and run for new position in our club</td>    
                 </tr> 
                     
-                <tr>
+                <tr class = "beta">
 					<td>3</td>
 					<td>WOS Linkedin and Social Media Etiquette</td>
 					<td>November 19, 2015</td>
@@ -285,10 +286,9 @@ elect their new officals and run for new position in our club</td>
 						<th>Location</th>
                         <th>Registration</th>
 					</tr>
-				
-                                 
+            
                     
-                 <tr>
+                 <tr class = "beta">
 					<td>1</td>
 					<td>WOS Business Writing Essentials</td>
 					<td>December 3, 2015</td>
@@ -300,7 +300,7 @@ elect their new officals and run for new position in our club</td>
                     <td class = "test" colspan = "6">This workshop emphasizes the keys for effective writing: audience, purpose, message, style and tone. It is aimed at those who want to sharpen the focus of their business writing.</td>    
                 </tr>
                     
-					<tr>
+					<tr class = "beta">
 						<td>2</td>
 						<td>Lehman College NSBE Final Meeting</td>
 						<td>December 8, 2015</td>
@@ -312,7 +312,7 @@ elect their new officals and run for new position in our club</td>
                     <td class = "test" colspan = "6">Our last meeting, award ceremonies, group photos and last meal.  </td>    
                 </tr>             
                     
-                 <tr>
+                 <tr class = "beta">
 					<td>3</td>
 					<td>WOS Navigating Career Changes</td>
 					<td>December 10, 2015</td>
