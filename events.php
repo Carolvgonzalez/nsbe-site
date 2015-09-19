@@ -63,8 +63,7 @@
 				</tr>  
                     
                       <tr>
-                    <td class = "test" colspan = "6"> Dave Reynols a NSBE Professional, works as a broadcast Engineer at the barwith many years of networking experience. 
-                        will teach Students will learn how network with profressional </td>    
+                    <td class = "test" colspan = "6"> Dave Reynols a NSBE Professional, works as a broadcast Engineer at the barwith many years of networking experience. Will teach Students the importance or networking and will learn how network with profressional. </td>    
                 </tr>
                     
 				<tr class = "beta">
@@ -77,7 +76,7 @@
 				</tr>
                     
                 <tr >
-                    <td class = "test" colspan = "6">Students will learn how to create Java class and how to implement methods </td>    
+                    <td class = "test" colspan = "6">Students will learn how to create Java class and how to implement methods.</td>    
                 </tr>
                     
             </table>
@@ -118,7 +117,7 @@
                     <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/GUGV8qWbRL" role="button" target="_blank">Sign Up</a></td>
 				</tr>
 				
-                    <td class = "test" colspan = "6">Students will learn how to create bank account using java. Students will code in class. </td>    
+                    <td class = "test" colspan = "6">Students will begin to learn how to create bank account using java. Students will code in class. </td>    
                 </tr>
                 
 				<tr class = "beta">
@@ -130,7 +129,7 @@
                     <td><a class="btn btn-sm btn-primary" href="https://docs.google.com/forms/d/1mMebFnua0Fq7ewaVqPnjdMlH7x0pR659wl-fRGXyQpw/viewform?usp=send_form" role="button" target="_blank">Sign Up</a></td>
 				</tr>
 				
-                    <td class = "test" colspan = "6">Students will learn how to continue to create a bank account using java. Students will code in class. </td>    
+                    <td class = "test" colspan = "6">Students will continue to learn how create a bank account using java. Students will code in class. </td>    
                 </tr>
                    
                 <tr class = "beta">
@@ -168,7 +167,7 @@
                     <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/vbD1WT9Pcp" role="button" target="_blank">Sign Up</a></td>
 				</tr>
                     
-                <td class = "test" colspan = "6">Students will finish creating a java bank account. Students will code in class. </td>    
+                <td class = "test" colspan = "6">Students will finish creating their java bank account. Students will code in class. </td>    
                 </tr>
 
 
