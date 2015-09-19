@@ -26,25 +26,26 @@
 				<tr class = "beta">
                     
                     <td>1</td>
-					<td>Intro/Preview/Variables/Expressions</td>
+					<td>Java Intro, Variables and Expressions</td>
 					<td>September 9, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>Student Life Building 121</td>
-                    <td><button type ="button">Sign Up</button> </td>
+                    <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/4IXeAuz2JD" role="button" target="_blank">Sign Up</a></td>
                      
 				</tr>
                 <tr>
-                    <td class = "test" colspan = "6">Students will learn the                             history of java, learn how to assign variables
+                    <td class = "test" colspan = "6">Students will learn the history of java, learn how to assign variables
                       and how to use expressions. Students will code in class.                         </td>    
                 </tr>
 
 				<tr class = "beta">
 					<td>2</td>
-					<td>Control Flow Statements/Recursion</td>
+					<td>Control Flow Statements and Recursion</td>
 					<td>September 16, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>Student Life Building 121</td>
-                    <td><button type ="button" href = "http://goo.gl/forms/Iy1gSF3v9g">Sign Up</button> </td>
+                    <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/jrb3O9o0Ks" role="button" target="_blank">Sign Up</a>
+                    </td>                        
 				</tr>
 				
                 <tr>
@@ -58,7 +59,7 @@
 					<td>September 24, 2015</td>
 					<td>3:00pm-4:00pm</td>
 					<td>Student Life Building 121</td>
-                    <td><button type ="button">Sign Up</button> </td>
+                    <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/sXPydnYw6a" role="button" target="_blank">Sign Up</a> </td>
 				</tr>  
                     
                       <tr>
@@ -68,11 +69,11 @@
                     
 				<tr class = "beta">
 					<td>4</td>
-					<td>Java Class/Methods</td>
+					<td>Java Class and Methods</td>
 					<td>September 30, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>Student Life Building 121</td>
-                    <td><button type ="button">Sign Up</button> </td>
+                    <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/A1okf10ZDg" role="button" target="_blank">Sign Up</a></td>
 				</tr>
                     
                 <tr >
@@ -97,60 +98,48 @@
 			
                 <tr class = "beta">
 					<td>1</td>
-					<td>WOS Resume Writing</td>
+					<td>WOS Resume Writing Workshop</td>
 					<td>October 1, 2015</td>
 					<td>4:00pm-5:30pm</td>
 					<td>Gilet Hall Room 231</td>
-                    <td><button type ="button">Sign Up</button> </td>
+                    <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/EbtB2atljr" role="button" target="_blank">Sign Up</a></td>
 				</tr>
                       <tr>
                     <td class = "test" colspan = "6">This workshop is a refresher for individuals who want to improve their existing resumes so that that they clearly and concisely reflect their skills, professional experience, accomplishments, knowledge, and education. </td>    
                 </tr>
                     
-                    
-				<tr class = "beta">
-					<td>2</td>
-					<td>NSBE Fall Zone Conference</td>
-					<td>October 3, 2015</td>
-					<td>8:30am-7:00pm</td>
-					<td>NYIT Old Westbery</td>
-                    <td><button type ="button">Sign Up</button> </td>
-                </tr>
-                    
-                    <td class = "test" colspan = "6">Students will learn how to create Java class and how to implement methods </td>    
-                </tr>
 				
 				<tr class = "beta">
-					<td>3</td>
-					<td>Bank Account - Part I</td>
+					<td>2</td>
+					<td>Java Bank Account - Part I</td>
 					<td>October 7, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>TBA</td>
-                    <td><button type ="button">Sign Up</button> </td>
+                    <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/GUGV8qWbRL" role="button" target="_blank">Sign Up</a></td>
 				</tr>
 				
                     <td class = "test" colspan = "6">Students will learn how to create Java class and how to implement methods </td>    
                 </tr>
                 
 				<tr class = "beta">
-					<td>4</td>
-					<td>Bank Account - Part II</td>
+					<td>3</td>
+					<td>Java Bank Account - Part II</td>
 					<td>October 14, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>TBA</td>
-                    <td><button type ="button">Sign Up</button> </td>
+                    <td><a class="btn btn-sm btn-primary" href="https://docs.google.com/forms/d/1mMebFnua0Fq7ewaVqPnjdMlH7x0pR659wl-fRGXyQpw/viewform?usp=send_form" role="button" target="_blank">Sign Up</a></td>
 				</tr>
 				
                     <td class = "test" colspan = "6">Students will learn how to create Java class and how to implement methods </td>    
                 </tr>
                    
                 <tr class = "beta">
-					<td>5</td>
-					<td>WOS Effective Online Search and Career Fair                Techniques</td>
+					<td>4</td>
+					<td>WOS Effective Online Search and Career Fair                Techniques Workshop</td>
 					<td>October 15, 2015</td>
 					<td>4:00pm-5:30pm</td>
 					<td>Gilet Hall Room 231</td>
-                    <td><button type ="button">Sign Up</button></td>
+                    <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/GocBR1DjiM" role="button" target="_blank">Sign Up</a></td>
 				</tr>
 				      <tr>
                     <td class = "test" colspan = "6"> Participants will learn how to effectively target and strategize their online job searches as well as develop a game plan to successfully navigate career fairs. Learn how to network with potential employers. </td>    
@@ -159,24 +148,24 @@
                     
                     
 				<tr class = "beta">
-					<td>6</td>
+					<td>5</td>
 					<td>Lehman College 2nd Annual Hackathon</td>
 					<td>October 16-17, 2015</td>
 					<td>9:00am-12:30pm</td>
 					<td>East Dinning Hall</td>
-                    <td><button type ="button">Sign Up</button> </td>
+                    <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/qXDBDE3Z7r" role="button" target="_blank">Sign Up</a></td>
 				</tr>
                   
 <td class = "test" colspan = "6">Students will learn how to create Java class and how to implement methods </td>    
                 </tr>
 				                    
                 <tr class = "beta">
-					<td>7</td>
-					<td>Bank Account - Part III</td>
+					<td>6</td>
+					<td>Java Bank Account - Part III</td>
 					<td>October 21, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>TBA</td>
-                    <td><button type ="button">Sign Up</button> </td>
+                    <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/vbD1WT9Pcp" role="button" target="_blank">Sign Up</a></td>
 				</tr>
                     
                 <td class = "test" colspan = "6">Students will learn how to create Java class and how to implement methods </td>    
@@ -184,12 +173,12 @@
 
 
                 <tr class = "beta">
-					<td>8</td>
+					<td>7</td>
 					<td>WOS Interviewing Skills</td>
 					<td>October 22, 2015</td>
 					<td>4:00pm-5:30pm</td>
 					<td>Gilet Hall Room 231</td>
-                    <td><button type ="button">Sign Up</button> </td>
+                    <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/wC6bvRw5La" role="button" target="_blank">Sign Up</a></td>
                 </tr>
 
                 <td class = "test" colspan = "6">This workshop helps participants master the skills needed for successful interviews for employment. That includes the preparation needed before the interview and strategies for follow-up. </td>    
@@ -197,12 +186,12 @@
 
                     
 				<tr class = "beta">
-					<td>9</td>
-					<td>NSBE 30Sec Pitch Competition</td>
+					<td>8</td>
+					<td>Lehman NSBE 30 Secound Pitch Competition</td>
 					<td>October 22, 2015</td>
-					<td>6:00pm-7:00pm</td>
-					<td>TBA</td>
-                    <td><button type ="button">Sign Up</button> </td>
+					<td>3:00pm-4:00pm</td>
+					<td>Student Life Room 205C</td>
+                    <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/TD1D06eCgB" role="button" target="_blank">Sign Up</a></td>
 	            </tr>
 
                 <td class = "test" colspan = "6">Students will learn how to create Java class and how to implement methods </td>    
@@ -225,11 +214,11 @@
 
                 <tr class = "beta">
                     <td>1</td>
-                    <td>Intro to Multimedia & Student Request</td>
+                    <td>Java Intro to Multimedia & Student Request</td>
                     <td>November 4, 2015</td>
                     <td>6:05pm-7:55pm</td>
                     <td>TBA</td>
-                    <td><button type ="button">Sign Up</button> </td>
+                    <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/F9ZZXfWVfl" role="button" target="_blank">Sign Up</a></td>
                 </tr>
 
                 <td class = "test" colspan = "6">Students will learn how to create Java class and how to implement methods </td>    
@@ -237,14 +226,14 @@
                    
                 <tr class = "beta">
 					<td>2</td>
-					<td>WOS Professionalism in the workplace</td>
+					<td>WOS Professionalism in the Workplace</td>
 					<td>November 12, 2015</td>
 					<td>4:00pm-5:30pm</td>
 					<td>Gilet Hall Room 231</td>
-                    <td><button type ="button">Sign Up</button></td>
+                    <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/F7hbvxFLWf" role="button" target="_blank">Sign Up</a></td>
 				</tr>
 				
-                <td class = "test" colspan = "6">This workshop is mostly aimed at teenagers, entry-level employees and recent graduates who are interested in developing their interpersonal skills to navigate the complexities of a workplace. The topics include communication skills, problem solving, self-confidence, accountability, humility and cultural awareness. </td>    
+                <td class = "test" colspan = "6">This workshop is mostly aimed for students, entry-level employees and recent graduates who are interested in developing their interpersonal skills to navigate the complexities of a workplace. The topics include communication skills, problem solving, self-confidence, accountability, humility and cultural awareness. </td>    
                 </tr>
                        
 				<tr class = "beta">
@@ -253,7 +242,7 @@
                     <td>November 17, 2015</td>
 					<td>3:00pm-4:30pm</td>
                     <td>Student Life Room 205C</td>
-                    <td><button type ="button">Sign Up</button> </td>
+                    <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/s1LNmK1epN" role="button" target="_blank">Sign Up</a></td>
 				</tr>
                     
                    <td class = "test" colspan = "6">Students have the ability to
@@ -266,7 +255,7 @@ elect their new officals and run for new position in our club</td>
 					<td>November 19, 2015</td>
 					<td>4:00pm-5:30pm</td>
 					<td>Gilet Hall Room 231</td>
-                    <td><button type ="button">Sign Up</button> </td>
+                    <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/1QoEXgs0Og" role="button" target="_blank">Sign Up</a></td>
                 </tr>				
                     
                 <td class = "test" colspan = "6">Learn how to effectively use this professional social media tool to network with others virtually. Your profile should help employers, recruiters, and others to find you. Learn how to optimize your profile for maximum results. <br>Also Learn how to communicate when using social media tools. Be aware of what not to share and gain knowledge on how to stay professional. </td>    
@@ -294,7 +283,7 @@ elect their new officals and run for new position in our club</td>
 					<td>December 3, 2015</td>
 					<td>4:00pm-5:30pm</td>
 					<td>Gilet Hall Room 231</td>
-                    <td><button type ="button">Sign Up</button> </td>
+                    <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/h8S7CCLhBJ" role="button" target="_blank">Sign Up</a></td>
 				</tr>
 				    
                     <td class = "test" colspan = "6">This workshop emphasizes the keys for effective writing: audience, purpose, message, style and tone. It is aimed at those who want to sharpen the focus of their business writing.</td>    
@@ -306,7 +295,7 @@ elect their new officals and run for new position in our club</td>
 						<td>December 8, 2015</td>
 						<td>3:00pm-5:30pm</td>
 						<td>Student Life Building Room 205C</td>
-                        <td><button type ="button">Sign Up</button> </td>
+                        <td><a class="btn btn-sm btn-primary" href="" role="button" target="_blank">Sign Up</a></td>
 					</tr>
                     
                     <td class = "test" colspan = "6">Our last meeting, award ceremonies, group photos and last meal.  </td>    
@@ -318,7 +307,7 @@ elect their new officals and run for new position in our club</td>
 					<td>December 10, 2015</td>
 					<td>4:00pm-5:30pm</td>
 					<td>Gilet Hall Room 231</td>
-                    <td><button type ="button">Sign Up</button> </td>
+                    <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/n1SktlV9iX" role="button" target="_blank">Sign Up</a></td>
 				</tr>
 				    
                     <td class = "test" colspan = "6">Learn how to develop a plan to successfully transition to another career. Identify the transferable skills that will help you make the change. </td>    
