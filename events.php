@@ -118,7 +118,7 @@
                     <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/GUGV8qWbRL" role="button" target="_blank">Sign Up</a></td>
 				</tr>
 				
-                    <td class = "test" colspan = "6">Students will learn how to create Java class and how to implement methods </td>    
+                    <td class = "test" colspan = "6">Students will learn how to create bank account using java. Students will code in class. </td>    
                 </tr>
                 
 				<tr class = "beta">
@@ -130,7 +130,7 @@
                     <td><a class="btn btn-sm btn-primary" href="https://docs.google.com/forms/d/1mMebFnua0Fq7ewaVqPnjdMlH7x0pR659wl-fRGXyQpw/viewform?usp=send_form" role="button" target="_blank">Sign Up</a></td>
 				</tr>
 				
-                    <td class = "test" colspan = "6">Students will learn how to create Java class and how to implement methods </td>    
+                    <td class = "test" colspan = "6">Students will learn how to continue to create a bank account using java. Students will code in class. </td>    
                 </tr>
                    
                 <tr class = "beta">
@@ -156,7 +156,7 @@
                     <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/qXDBDE3Z7r" role="button" target="_blank">Sign Up</a></td>
 				</tr>
                   
-<td class = "test" colspan = "6">Students will learn how to create Java class and how to implement methods </td>    
+<td class = "test" colspan = "6">Our 2nd Annual Hackathon.  </td>    
                 </tr>
 				                    
                 <tr class = "beta">
@@ -168,7 +168,7 @@
                     <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/vbD1WT9Pcp" role="button" target="_blank">Sign Up</a></td>
 				</tr>
                     
-                <td class = "test" colspan = "6">Students will learn how to create Java class and how to implement methods </td>    
+                <td class = "test" colspan = "6">Students will finish creating a java bank account. Students will code in class. </td>    
                 </tr>
 
 
@@ -194,7 +194,7 @@
                     <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/TD1D06eCgB" role="button" target="_blank">Sign Up</a></td>
 	            </tr>
 
-                <td class = "test" colspan = "6">Students will learn how to create Java class and how to implement methods </td>    
+                <td class = "test" colspan = "6">Whether you're at a job interview, networking, or run into bill gates in the elevator, quickly persuading others to think you're the most interesting person they'll meet is no easy task. Students will learn how to create a 30 secound pitch and implement it. We will teach you how to sell yourself in 30 seconds and leave people wanting More!!! </td>    
                 </tr>
                     
 				</table>
@@ -221,7 +221,7 @@
                     <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/F9ZZXfWVfl" role="button" target="_blank">Sign Up</a></td>
                 </tr>
 
-                <td class = "test" colspan = "6">Students will learn how to create Java class and how to implement methods </td>    
+                <td class = "test" colspan = "6">Students will learn how to use java muiltimedia and your instructior will take request. Students will code in class. </td>    
                 </tr>
                    
                 <tr class = "beta">
@@ -245,8 +245,7 @@
                     <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/s1LNmK1epN" role="button" target="_blank">Sign Up</a></td>
 				</tr>
                     
-                   <td class = "test" colspan = "6">Students have the ability to
-elect their new officals and run for new position in our club</td>    
+                   <td class = "test" colspan = "6">Students will have the ability to elect their new officals and run for new position with our club.</td>    
                 </tr> 
                     
                 <tr class = "beta">
@@ -258,7 +257,7 @@ elect their new officals and run for new position in our club</td>
                     <td><a class="btn btn-sm btn-primary" href="http://goo.gl/forms/1QoEXgs0Og" role="button" target="_blank">Sign Up</a></td>
                 </tr>				
                     
-                <td class = "test" colspan = "6">Learn how to effectively use this professional social media tool to network with others virtually. Your profile should help employers, recruiters, and others to find you. Learn how to optimize your profile for maximum results. <br>Also Learn how to communicate when using social media tools. Be aware of what not to share and gain knowledge on how to stay professional. </td>    
+                <td class = "test" colspan = "6">Learn how to effectively use this professional social media tool to network with others virtually. Your profile should help employers, recruiters, and others to find you. Learn how to optimize your profile for maximum results and learn how to communicate when using social media tools. Also be aware of what not to share and gain knowledge on how to stay professional. </td>    
                 </tr>
 
 				</table>
