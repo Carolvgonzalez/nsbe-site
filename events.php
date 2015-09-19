@@ -297,7 +297,7 @@
                         <td><a class="btn btn-sm btn-primary" href="" role="button" target="_blank">Sign Up</a></td>
 					</tr>
                     
-                    <td class = "test" colspan = "6">Our last meeting, award ceremonies, group photos and last meal.  </td>    
+                    <td class = "test" colspan = "6">Lehman NSBE last meeting, award ceremonies, graduate ceremony, group photos and last meal. </td>    
                 </tr>             
                     
                  <tr class = "beta">
