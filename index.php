@@ -74,7 +74,7 @@
     <!-- End of carousel -->
       
 <div id="welcome-section">
-   <img id= "an" src = "image/wordcloud.jpg">
+   <img class= "an" src = "image/wordcloud.jpg">
 </div>
     <hr>
 	

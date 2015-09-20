@@ -52,7 +52,7 @@ background-color: red;
 }
 
 
-#an{
+.an{
     width: 100%;
     opacity: 1.0;    
 }
@@ -184,7 +184,7 @@ section{
 
 
 img:hover {
-    opacity: 0.4;
+    opacity: 0.6;
     filter: grayscale(100%);
     
     }
@@ -213,7 +213,6 @@ img:hover {
     color: black;   
 }
 
-
 h5 {
     text-align: center;   
 }
@@ -221,8 +220,6 @@ h5 {
 .test{
      display:none;
 } 
-
-
 
 .blah{
     cursor: pointer;
@@ -239,3 +236,45 @@ h5 {
     color: #11ff10;
     padding-top: 30px;
 }
+
+.ha{
+ width: 100%;
+}
+
+.group{
+ float: left; 
+ margin-right: 10px;
+ margin-bottom: 5px;    
+}
+
+.hac{
+font-size: 2.5em;    
+margin-top: 30px;   
+margin-bottom: 30px; 
+letter-spacing: 3px;
+}
+
+.mission{
+    float: left;
+}
+
+.des{
+    margin-top: 40px;
+    margin-right: 5px;
+    font-size: 1.5em; 
+    padding-left: 50px;
+    text-align: left;
+    color: #555555;
+    line-height: 120%;
+    text-indent: 20px;
+}
+
+.sec{
+    background-color: rgba(100, 100, 100, 0.4);
+}
+
+#pri{
+ font-size: 1.9em;
+ margin-top: 40px;
+}
+
