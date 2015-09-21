@@ -385,3 +385,35 @@ letter-spacing: 3px;
     text-align: center;
     font-size: 1.5em;
 }
+
+.schedule {
+    background-color: rgba(230, 230, 230, 0.5);
+}
+
+#Schedules {
+    font-size: 2.5em;
+    color: #555555;
+}
+
+.day1 {
+    font-size: 1.3em;
+    color: #3333ff;
+    font-weight: 600;
+}
+
+.day2 {
+    font-size: 1.5em;
+    color: #3333ff;
+    font-weight: 600;
+}
+
+.days {
+    list-style-type: none;
+    padding-left: 33%; 
+}
+
+.rule {
+    font-size: 3.2em;
+    color: #555555;
+    font-weight: bold;
+}
