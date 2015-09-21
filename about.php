@@ -47,7 +47,7 @@
           <hr size="3" color="yellow" width="100%">
     <h2><u>QUICK LINKS</u></h2>
     <p><a href = "http://connect.nsbe.org/NewUser.aspx">Become a Member!</a></p>
-    <p><a href = "http://lehman.collegiatelink.net/organization/nsbe">Lehman Colege Club Site</a></p>
+    <p><a href = "http://lehman.collegiatelink.net/organization/nsbe">Lehman College Collegiate Club Site</a></p>
 	<p><a href = "http://nsbe.org">National NSBE Site</a></p>
     
     <h2><u>NEWS</u></h2>
