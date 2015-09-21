@@ -10,11 +10,6 @@
      <!-- jQuery (For Bootstrap's plugins) -->
     <script src="js/jquery.min.js"></script>  
       
-    <!-- Link to Google API (For "CONTACT BUTTON" at bottom) -->
-    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.2/material.indigo-pink.min.css">
-    <script src="https://storage.googleapis.com/code.getmdl.io/1.0.2/material.min.js"></script>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-      
     <!-- Link to Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -25,11 +20,15 @@
     <link href = "css/grid.css" rel="stylesheet">
     
     <!--font awesome-->
-    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
       
     <!-- Custom CSS file -->
     <link href="css/main.css" rel="stylesheet">
         
+    <script src = "js/script.js" type="text/javascript"></script>  
+      
+      
+    
       <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -62,7 +61,7 @@
        <li><a href="index.php">HOME</a></li>
         <li><a href="about.php">ABOUT</a></li>
         <li><a href="events.php">EVENTS</a></li>
-        <li role="presentation" class="dropdown"><a class="dropdown-toggle"  href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HACKATHON <span class="caret"></span></a>
+        <li role="presentation" class="dropdown"><a class="dropdown-toggle"  href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HACKATHON<span class="caret"></span></a>
           <ul class="dropdown-menu">
               <li><a href="hackathon.php">Apply</a></li>
               <li><a href="mission.php">Hackathon Information</a></li>
@@ -74,3 +73,9 @@
     </div>
   </div>
 </nav>
+    
+    
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	
+	<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>

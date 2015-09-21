@@ -83,7 +83,6 @@
         <a href="https://twitter.com/nsbelehman" target="_blank"><img id="social-media-icon" src="social/tweet.png"></a>
                 </p>
     </div>
-      <footer>
-      </footer>
+
   </body>
 </html>

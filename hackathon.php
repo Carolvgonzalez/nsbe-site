@@ -2,14 +2,11 @@
         
     <!-- Hack-a-thon Embed Form -->
   <div id="hack-registration-box" >
-    <iframe src="https://docs.google.com/forms/d/1zg4Q8f-6whk-ZEQNz95qPV6grQvIqw1kVzOhEiTYA-E/viewform?embedded=true" width="960" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+    <iframe src="https://docs.google.com/forms/d/1zg4Q8f-6whk-ZEQNz95qPV6grQvIqw1kVzOhEiTYA-E/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-<!-- jQuery (For Bootstrap's plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
 
-    <!-- Footer -->
+<div class="clearfix"></div>
+
      <!-- Footer -->
        <div id="footer">
         <br>
@@ -23,8 +20,7 @@
         <a href="https://twitter.com/nsbelehman" target="_blank"><img id="social-media-icon" src="social/tweet.png"></a>
                 </p>
     </div>
-      <footer>
-      </footer>
+   
     </div>
   </body>
 </html>
