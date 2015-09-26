@@ -122,7 +122,7 @@
 					<td>Java Bank Account - Part I</td>
 					<td>October 7, 2015</td>
 					<td>6:15pm-7:30pm</td>
-					<td>TBA</td>
+					<td>Student Life Building 121</td>
                     <td><a class="btn btn-sm btn-primary eventbtn" href="http://goo.gl/forms/GUGV8qWbRL" role="button" target="_blank">Sign Up</a></td>
 				</tr>
 				
@@ -134,7 +134,7 @@
 					<td>Java Bank Account - Part II</td>
 					<td>October 14, 2015</td>
 					<td>6:15pm-7:30pm</td>
-					<td>TBA</td>
+					<td>Student Life Building 121</td>
                     <td><a class="btn btn-sm btn-primary eventbtn" href="https://docs.google.com/forms/d/1mMebFnua0Fq7ewaVqPnjdMlH7x0pR659wl-fRGXyQpw/viewform?usp=send_form" role="button" target="_blank">Sign Up</a></td>
 				</tr>
 				
@@ -172,7 +172,7 @@
 					<td>Java Bank Account - Part III</td>
 					<td>October 21, 2015</td>
 					<td>6:15pm-7:30pm</td>
-					<td>TBA</td>
+					<td>Student Life Building 121</td>
                     <td><a class="btn btn-sm btn-primary eventbtn" href="http://goo.gl/forms/vbD1WT9Pcp" role="button" target="_blank">Sign Up</a></td>
 				</tr>
                     
@@ -225,7 +225,7 @@
                     <td>Java Intro to Multimedia & Student Request</td>
                     <td>November 4, 2015</td>
                     <td>6:05pm-7:55pm</td>
-                    <td>TBA</td>
+                    <td>Student Life Building 121</td>
                     <td><a class="btn btn-sm btn-primary eventbtn" href="http://goo.gl/forms/F9ZZXfWVfl" role="button" target="_blank">Sign Up</a></td>
                 </tr>
 

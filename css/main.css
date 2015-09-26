@@ -422,3 +422,19 @@ letter-spacing: 3px;
     margin-left: 15%;
     margin-right: 15%;
 }
+
+.bo {
+    width: 250px;
+    height: auto;
+}
+
+.cen {
+    text-align: center;
+    font-weight: bold;
+    padding-top: 7px;
+}
+
+.cent {
+    padding-left: 35px;
+    font-weight: bold;
+}

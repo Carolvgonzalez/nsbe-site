@@ -5,9 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
       
-    <title>NSBE Lehman</title>
-      
-     <!-- jQuery (For Bootstrap's plugins) -->
+    <title>NSBE Lehman</title>8ins) -->
     <script src="js/jquery.min.js"></script>  
       
     <!-- Link to Bootstrap -->
