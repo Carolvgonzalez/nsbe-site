@@ -451,3 +451,18 @@ letter-spacing: 3px;
 .ha {
      background-color: rgba(230,230,230, 0.5); 
 }
+
+#ss {
+    padding-top: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.suc {
+    text-align: left;
+    text-indent: 20px;
+}
+
+.succ {
+    text-indent: 20px;
+}
