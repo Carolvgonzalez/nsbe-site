@@ -13,9 +13,6 @@
 
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>  
-      
-    <!--grid css -->
-    <link href = "css/grid.css" rel="stylesheet">
     
     <!--font awesome-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
@@ -63,6 +60,7 @@
           <ul class="dropdown-menu">
               <li><a href="hackathon.php">Apply</a></li>
               <li><a href="mission.php">Hackathon Information</a></li>
+              <li><a href = "rules.php">Rules</a></li>
             </ul>
           
           </li>

@@ -246,7 +246,7 @@ h5 {
 font-size: 2.5em;    
 margin-top: 60px;   
 margin-bottom: 10px; 
-letter-spacing: 3px;
+letter-spacing: 2px;
 }
 
 .mission{
@@ -349,6 +349,7 @@ letter-spacing: 3px;
     color:#555555;
     font-size: 2.5em;
     padding-bottom: 20px;
+    letter-spacing: 2px;
 }
 
 .Gold {
@@ -364,10 +365,12 @@ letter-spacing: 3px;
 }
 
 #local {
+    color: #555555;
     text-align: center;
     margin-top: 15px;
     margin-bottom: 15px;
-    font-size: 3em;
+    font-size: 2.5em;
+    letter-spacing: 2px;
 }
 
 .loc{
@@ -389,6 +392,7 @@ letter-spacing: 3px;
 #sch {
     text-align: center;
     font-size: 1.5em;
+    letter-spacing: 2px;
 }
 
 .schedule {
@@ -398,6 +402,7 @@ letter-spacing: 3px;
 #Schedules {
     font-size: 2.5em;
     color: #555555;
+    letter-spacing: 2px;
 }
 
 .day1 {
@@ -418,9 +423,10 @@ letter-spacing: 3px;
 }
 
 .rule {
+    margin-top: 30px;
     font-size: 3.2em;
     color: #555555;
-    font-weight: bold;
+    letter-spacing: 2px;
 }
 
 .rulers {
@@ -472,4 +478,9 @@ letter-spacing: 3px;
 .new {
     margin-top: 50px;
     margin-bottom: 20px;
+}
+
+.priz {
+    font-size: 2.5em;
+    letter-spacing: 2px;
 }
