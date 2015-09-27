@@ -1,8 +1,5 @@
 <?php include("header.php"); ?>      
-      <br><br><br><br><br>
     <!-- End of Navigation Bar -->
-
-
 
     <!-- Line above footer -->
 	  <section class = "container-fluid">
