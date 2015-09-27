@@ -3,13 +3,7 @@
 
 
     <!-- jQuery (For Bootstrap's plugins) -->
-    
-	
-	
-   
 
-
-	<br><br>
     <div class="welcome-section">
    <img id= "an" src = "image/java.png">
 	<div class="welcome-section-text"> <!--id="welcome-header" -->

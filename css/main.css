@@ -48,10 +48,11 @@ h4 {
 .welcome-section {
     background-position:left top; 
     height: 645px;
-    margin-top: 10px;
+    margin-top: 30px;
     display: table-row;
     text-align: left;
     width: 100%;
+    
 }
 
 #welcome-header {
@@ -302,6 +303,7 @@ letter-spacing: 3px;
 }
 
 #an {
+    
     width: 100%;
     opacity: 1.0;
 }
