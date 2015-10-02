@@ -182,21 +182,12 @@
         </div>
       
          <div class = "col-sm-3">
-             <h3 class ="cen">Business Diversity Chair</h3>
+             <h3 class ="cen">Senator</h3>
               <a href="https://www.linkedin.com/profile/view?id=225027311&authType=NAME_SEARCH&authToken=KBpD&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A225027311%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1440526016301%2Ctas%3Adani" target="_blank">
     <img src="image/dan.jpg" alt= "lehman nsbe business diversity chair"></a>
               <h3 class ="cen">Daniel Adeyanju </h3>
         </div>
     </div>
-    
-     <br>
-    <div class = "row">
-        <div class = "col-sm-3">
-                 <h3 class ="cen">Academic Excellence              Chair</h3>
-            <img src= "image/Asy.jpg">
-            <h3 class ="cen">Aysmel Aguasvivas</h3>
-        </div>
-    
         
     </div>
     
