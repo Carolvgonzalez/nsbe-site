@@ -3,7 +3,7 @@
  
     <!--  <h1>Membership</h1>-->
       
-       <div class="row-fluid">
+       <div class="container">
           <div class="inner-content">
             <h1 class = "history">NSBE History</h1>
 <p class = "about">

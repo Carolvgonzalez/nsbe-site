@@ -19,30 +19,30 @@
           <img class="first-slide" id="carousel-image" src="image/bks.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>WELCOME TO OUR CLUB</h1>
-              <p><h4>
-              We are committed to helping our students find internships, jobs and graduate successfully <br>Join us for a life changing experience!<br>
+              <h1 class="welcome">WELCOME TO OUR CLUB</h1>
+              <p class = "jobs">
+              We are committed to helping our students find internships, jobs and graduate successfully <br>Join us for a life changing experience!
                 Meet amazing people and expand your skills
-        </h4></p> 
+        </p> 
               <a class="btn btn-lg btn-primary" href="https://docs.google.com/forms/d/1BT4iKUTAvzPNStKznYO3wwDFDzTOK-v1pJAExyJUXvI/viewform?c=0&w=1" role="button" target="_blank">Newsletter</a>
             </div>
           </div>
         </div>
         <div class="item">
-          <img class="second-slide" id="carousel-image" src="Science-Hall.jpg" alt="Second slide">
+          <img class="second-slide" id="carousel-image" src="image/new.png" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>NSBE</h1>
-              <p>National Society of Black Engineers</p>
+              <h1 class = "nsbe">NSBE</h1>
+              <p class ="ns">National Society of Black Engineers</p>
               <a class="btn btn-lg btn-primary" href="https://docs.google.com/forms/d/1BT4iKUTAvzPNStKznYO3wwDFDzTOK-v1pJAExyJUXvI/viewform?c=0&w=1" role="button" target="_blank">Newsletter</a>
             </div>
           </div>
         </div>
           <div class="item">
-          <img class="fourth-slide" id="carousel-image" src="image/Graphic.jpg" alt="Second slide">
+          <img class="fourth-slide" id="carousel-image" src="image/last.png" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <p>Want to register for the hackathon? What are you waiting for? Click below or the tab to register!!!</p>
+              <p class= "register">Awarded best club activities of the year 2014-2015. Join our club today!</p>
               <a class="btn btn-lg btn-primary" href="hackathon.html" role="button" target="_blank">Register</a>
             </div>
           </div>
@@ -71,8 +71,7 @@
       </a>
     </div>
       
-    <!-- End of carousel -->
-      
+    <!-- End of carousel -->     
 <div id="welcome-section">
    <img class= "an" src = "image/wordcloud.jpg">
 </div>

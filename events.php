@@ -9,7 +9,8 @@
 	<div class="welcome-section-text"> <!--id="welcome-header" -->
 </div>
 </div><!--Closes welcome-section div -->
-      
+
+<section class = "container-fluid">
     <!-- Events -->
 	<div id="Calender"> 
 		<h3>September 2015 </h3>
@@ -318,7 +319,7 @@
 			</div>
 	</div>
 
-
+</section>
     <!-- Line above footer -->
       <hr>
   

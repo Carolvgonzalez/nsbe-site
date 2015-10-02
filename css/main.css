@@ -21,8 +21,8 @@ h4 {
 
 #carousel-image{
     width: 100%;
-    height: 455px;
-    opacity:0.4;
+    height: 550px;
+    /*opacity:0.4; */
     filter: alpha(opacity=40);   
 }
 
@@ -422,11 +422,12 @@ letter-spacing: 2px;
     padding-left: 33%; 
 }
 
-.rule {
-    margin-top: 30px;
-    font-size: 3.2em;
-    color: #555555;
+.freq {
+    font-size: 2.5em;
+    color: #222222;
     letter-spacing: 2px;
+    
+    
 }
 
 .rulers {
@@ -483,4 +484,64 @@ letter-spacing: 2px;
 .priz {
     font-size: 2.5em;
     letter-spacing: 2px;
+}
+
+.FAQ {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.Answers {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.answer {
+    margin-left: -9.5%;
+}
+
+.FQ {
+    font-weight: bold;
+}
+
+.yes {
+    font-size: 1em;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+.heh {
+    background-color: rgba(100,220,150, .5);
+}
+
+.rule {
+    margin-top: 40px;
+    font-size: 2.5em;
+    letter-spacing: 2px;
+  
+}
+
+.register {
+    color: #ffffff;
+    font-size: 1.5em;
+}
+
+.nsbe {
+    color: #ffffff;
+    font-size: 2.5em;
+}
+
+.ns {
+    color: #ffffff;
+    font-size: 1.5em;
+}
+
+.welcome {
+    font-size: 2.5em;
+    color: #fffD01;
+}
+
+.jobs {
+    color: #fffD01;
+    font-size: 1.2em;
 }

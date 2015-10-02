@@ -60,7 +60,7 @@
           <ul class="dropdown-menu">
               <li><a href="hackathon.php">Apply</a></li>
               <li><a href="mission.php">Hackathon Information</a></li>
-              <li><a href = "rules.php">Rules</a></li>
+              <li><a href = "rules.php">Rules and FAQ</a></li>
             </ul>
           
           </li>
