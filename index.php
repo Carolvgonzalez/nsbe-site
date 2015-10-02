@@ -12,7 +12,9 @@
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
-       <!-- <li data-target="#myCarousel" data-slide-to="3"></li>-->
+       <li data-target="#myCarousel" data-slide-to="3"></li>
+          <li data-target="#myCarousel" data-slide-to="4"></li>
+          
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
@@ -32,7 +34,7 @@
           <img class="second-slide" id="carousel-image" src="image/new.png" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1 class = "nsbe">NSBE</h1>
+              <h1 class = "nsbe">NSBE Lehman</h1>
               <p class ="ns">National Society of Black Engineers</p>
               <a class="btn btn-lg btn-primary" href="https://docs.google.com/forms/d/1BT4iKUTAvzPNStKznYO3wwDFDzTOK-v1pJAExyJUXvI/viewform?c=0&w=1" role="button" target="_blank">Newsletter</a>
             </div>
@@ -42,22 +44,34 @@
           <img class="fourth-slide" id="carousel-image" src="image/last.png" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <p class= "register">Awarded best club activities of the year 2014-2015. Join our club today!</p>
-              <a class="btn btn-lg btn-primary" href="hackathon.html" role="button" target="_blank">Register</a>
-            </div>
-          </div>
-        </div>
-       <!--  <div class="item">
-          <img class="fifth-slide" id="carousel-image" src="images/Science-Hall-Front-1024x682.jpg" alt="Second slide">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>NSBE</h1>
-              <p>Lehman College Science Building</p>
+              <p class= "ns">Awarded best club activities of the year 2014-2015. Join our club today!</p>
               <a class="btn btn-lg btn-primary" href="https://docs.google.com/forms/d/1BT4iKUTAvzPNStKznYO3wwDFDzTOK-v1pJAExyJUXvI/viewform?c=0&w=1" role="button" target="_blank">Newsletter</a>
             </div>
           </div>
         </div>
-        
+        <div class="item">
+          <img class="fifth-slide" id="carousel-image" src="image/ok.png" alt="Second slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1 class ="nsbe">We are a United</h1>
+              <p class="ns">Together we can overcome any obsticle</p>
+              <a class="btn btn-lg btn-primary" href="https://docs.google.com/forms/d/1BT4iKUTAvzPNStKznYO3wwDFDzTOK-v1pJAExyJUXvI/viewform?c=0&w=1" role="button" target="_blank">Newsletter</a>
+            </div>
+          </div>
+        </div>
+          
+           <div class="item">
+          <img class="six-slide" id="carousel-image" src="image/Ela.png" alt="Second slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1 class ="nsbe">We are leaders</h1>
+              <p class="ns">We are the innovators and problem solvers!</p>
+              <a class="btn btn-lg btn-primary" href="https://docs.google.com/forms/d/1BT4iKUTAvzPNStKznYO3wwDFDzTOK-v1pJAExyJUXvI/viewform?c=0&w=1" role="button" target="_blank">Newsletter</a>
+            </div>
+          </div>
+        </div>
+          
+          
       <!-- Controls for carousel -->
           
       </div>
@@ -78,8 +92,8 @@
     <hr>
 	
 <div id="members-section">
-    <h2>National Society of Black Engineers<br>E-Board Members</h2><br>   
-    <h5>To learn more about our members or to contact them, click on their image. Don't worry, we're friendly.</h5>
+    <h2>National Society of Black Engineers<br>E-Board Members</h2> 
+    <p>To learn more about our members or to contact them, click on their image. Don't worry, we're friendly.</p>
     <hr>
 </div>
     

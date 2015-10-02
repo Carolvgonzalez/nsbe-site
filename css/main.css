@@ -444,6 +444,7 @@ letter-spacing: 2px;
     text-align: center;
     font-weight: bold;
     padding-top: 7px;
+    color:black;
 }
 
 .cent {
@@ -527,12 +528,12 @@ letter-spacing: 2px;
 }
 
 .nsbe {
-    color: #ffffff;
+    color: #fffD01;
     font-size: 2.5em;
 }
 
 .ns {
-    color: #ffffff;
+    color: #fffD01;
     font-size: 1.5em;
 }
 
@@ -544,4 +545,5 @@ letter-spacing: 2px;
 .jobs {
     color: #fffD01;
     font-size: 1.2em;
+    font-weight: 300;
 }
