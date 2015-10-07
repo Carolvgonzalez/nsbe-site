@@ -117,7 +117,7 @@
 					<td>Java Bank Account - Part I</td>
 					<td>October 7, 2015</td>
 					<td>6:15pm-7:30pm</td>
-					<td>Student Life Building 121</td>
+					<td>Student Life Building 222</td>
                     <td><a class="btn btn-sm btn-primary eventbtn" href="http://goo.gl/forms/GUGV8qWbRL" role="button" target="_blank">Sign Up</a></td>
 				</tr>
 				

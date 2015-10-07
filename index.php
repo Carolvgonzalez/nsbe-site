@@ -23,10 +23,10 @@
             <div class="carousel-caption">
               <h1 class="welcome">WELCOME TO OUR CLUB</h1>
               <p class = "jobs">
-              We are committed to helping our students find internships, jobs and graduate successfully <br>Join us for a life changing experience!
-                Meet amazing people and expand your skills
+             2nd Annual Hackathon <br>
+            Deadline to apply is October 9, 2015. Sign up today!
         </p> 
-              <a class="btn btn-lg btn-primary" href="https://docs.google.com/forms/d/1BT4iKUTAvzPNStKznYO3wwDFDzTOK-v1pJAExyJUXvI/viewform?c=0&w=1" role="button" target="_blank">Newsletter</a>
+              <a class="btn btn-lg btn-primary" href="http://goo.gl/forms/qXDBDE3Z7r" role="button" target="_blank">Sign Up</a>
             </div>
           </div>
         </div>
@@ -35,7 +35,7 @@
           <div class="container">
             <div class="carousel-caption">
               <h1 class = "nsbe">NSBE Lehman</h1>
-              <p class ="ns">National Society of Black Engineers</p>
+              <p class ="ns">We are committed to helping our students find internships  jobs <br>and graduate successfully. Join us for a life changing experience! <br>Meet amazing people and expand your skills</p>
               <a class="btn btn-lg btn-primary" href="https://docs.google.com/forms/d/1BT4iKUTAvzPNStKznYO3wwDFDzTOK-v1pJAExyJUXvI/viewform?c=0&w=1" role="button" target="_blank">Newsletter</a>
             </div>
           </div>
@@ -44,7 +44,7 @@
           <img class="fourth-slide" id="carousel-image" src="image/last.png" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <p class= "ns">Awarded best club activities of the year 2014-2015. Join our club today!</p>
+              <p class= "ns">Awarded best club activities of the year 2014-2015.<br> Join our club today!</p>
               <a class="btn btn-lg btn-primary" href="https://docs.google.com/forms/d/1BT4iKUTAvzPNStKznYO3wwDFDzTOK-v1pJAExyJUXvI/viewform?c=0&w=1" role="button" target="_blank">Newsletter</a>
             </div>
           </div>
@@ -185,7 +185,8 @@
             <h3 class ="cen">Membership Chair</h3>
             <a href="https://www.linkedin.com/profile/view?id=AAkAABZku2MBsVV2y0yxFjTi2U1ims4i01pbqPQ&authType=NAME_SEARCH&authToken=Knj_&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A375700323%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1444192435189%2Ctas%3Aauro" target="_blank">
             <img src="image/koch.png"></a>
-            <h3 class ="cen">Aurora Koch-Pongsema</h3>
+            <h3 class ="cen">Aurora Koch-Pongsema
+              </h3>
         </div>
       
         
