@@ -185,7 +185,7 @@
             <h3 class ="cen">Membership Chair</h3>
             <a href="https://www.linkedin.com/profile/view?id=AAkAABZku2MBsVV2y0yxFjTi2U1ims4i01pbqPQ&authType=NAME_SEARCH&authToken=Knj_&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A375700323%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1444192435189%2Ctas%3Aauro" target="_blank">
             <img src="image/koch.png"></a>
-            <h3 class ="cen">Ariel Maduro</h3>
+            <h3 class ="cen">Aurora Koch-Pongsema</h3>
         </div>
       
         
