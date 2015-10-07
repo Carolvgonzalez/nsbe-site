@@ -180,13 +180,15 @@
             <img src="image/ariel.jpg"></a>
             <h3 class ="cen">Ariel Maduro</h3>
         </div>
-      
-         <div class = "col-sm-3">
-             <h3 class ="cen">Senator</h3>
-              <a href="https://www.linkedin.com/profile/view?id=225027311&authType=NAME_SEARCH&authToken=KBpD&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A225027311%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1440526016301%2Ctas%3Adani" target="_blank">
-    <img src="image/dan.jpg" alt= "lehman nsbe business diversity chair"></a>
-              <h3 class ="cen">Daniel Adeyanju </h3>
+        
+          <div class = "col-sm-3">
+            <h3 class ="cen">Membership Chair</h3>
+            <a href="https://www.linkedin.com/profile/view?id=AAkAABZku2MBsVV2y0yxFjTi2U1ims4i01pbqPQ&authType=NAME_SEARCH&authToken=Knj_&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A375700323%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1444192435189%2Ctas%3Aauro" target="_blank">
+            <img src="image/koch.png"></a>
+            <h3 class ="cen">Ariel Maduro</h3>
         </div>
+      
+        
     </div>
         
     </div>
