@@ -46,13 +46,13 @@ h4 {
 }
 
 .welcome-section {
-    background-position:left top; 
-    height: 645px;
-    margin-top: 60px;
+   /* background-position:left top; 
+    height: 500px;
+    ;
     display: table-row;
     text-align: left;
     width: 100%;
-    
+   */ 
 }
 
 #welcome-header {
@@ -303,9 +303,10 @@ letter-spacing: 2px;
 }
 
 #an {
+    margin-top: 100px;
     width: 100%;
     opacity: 1.0;
-    margin-top: 50px;
+   
 }
 
 .eventbtn {
@@ -443,8 +444,8 @@ letter-spacing: 2px;
 .cen {
     text-align: center;
     font-weight: bold;
-    padding-top: 7px;
-    color:black;
+    padding-top: 10px;
+    color:#101010;
 }
 
 .cent {
@@ -547,3 +548,9 @@ letter-spacing: 2px;
     font-size: 1.2em;
     font-weight: 300;
 }
+
+.national {
+    margin-top: 20px;
+}
+
+

@@ -5,7 +5,7 @@
     <!-- jQuery (For Bootstrap's plugins) -->
 
     <div class="welcome-section">
-   <img id= "an" src = "image/java.jpg">
+   <img id= "an" src = "image/wordcloud.jpg">
 	<div class="welcome-section-text"> <!--id="welcome-header" -->
 </div>
 </div><!--Closes welcome-section div -->
@@ -244,7 +244,7 @@
 					<td>Lehman NSBE Election Day</td>
                     <td>November 17, 2015</td>
 					<td>3:00pm-4:30pm</td>
-                    <td>Student Life Room 205C</td>
+                    <td>Student Life Building Room 205C</td>
                     <td><a class="btn btn-sm btn-primary eventbtn" href="http://goo.gl/forms/s1LNmK1epN" role="button" target="_blank">Sign Up</a></td>
 				</tr>
                     

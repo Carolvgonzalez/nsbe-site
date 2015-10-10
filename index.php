@@ -85,76 +85,75 @@
     </div>
       
     <!-- End of carousel -->     
-<div id="welcome-section">
-   <img class= "an" src = "image/wordcloud.jpg">
-</div>
-    <hr>
-	
 <div id="members-section">
-    <h2>National Society of Black Engineers<br>E-Board Members</h2> 
-    <p>To learn more about our members or to contact them, click on their image. Don't worry, we're friendly.</p>
+    <h2 class ="national">National Society of Black Engineers<br>E-Board Members</h2> 
+    <p class="cen">To learn more about our members click on their image. Don't worry, we're friendly.</p>
     <hr>
 </div>
     
 <section class = "container-fluid">	
     <div class = "row">
         <div class = "col-sm-3">
-            <h3 class ="cen">Founder</h3>
+            
                                 <a href="https://www.linkedin.com/profile/view?id=AAEAABiUgUgBTPZedSNVTOQdrr8MqlpKIQo_krw&authType=name&authToken=PrTd&trk=prof-sb-browse_map-name" target="_blank">
             <img class= "bo img-circle" src= "image/dana.jpg">
-            <h3 class ="cen">Dana Smith</h3>
+            <h3 class ="cen">Founder
+            <br>Dana Smith</h3>
         </div>
     
         <div class = "col-sm-3">
-            <h3 class ="cen">President</h3>
+            
             <a href="https://www.linkedin.com/profile/view?id=350443151&authType=NAME_SEARCH&authToken=wQHI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A350443151%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1440344752422%2Ctas%3Aca" target="_blank">
             <img class= "bo img-circle" src ="image/carola.jpg"></a>
-            <h3 class ="cen">Carol Gonzalez</h3>
+            <h3 class ="cen">President
+            <br>Carol Gonzalez</h3>
         </div>
         
         <div class = "col-sm-3">
-            <h3 class ="cen">Vice President</h3>
+            
             <img class ="img-circle" src="image/carson.jpg">
-            <h3 class ="cen">Carson Brown</h3>
+            <h3 class ="cen">Vice President
+            <br>Carson Brown</h3>
         </div>
       
          <div class = "col-sm-3">
-             <h3 class ="cen">External Vice President</h3>
+             
              <a href="https://www.linkedin.com/profile/view?id=422002758&authType=name&authToken=O4BD&trk=ngroups_module_your_followers-b-nm" target="_blank"><img class = "bo img-circle" src="image/gennaro.jpg" alt ="nsbe special project chair"></a>
-            
-             <h3 class ="cen">Gennaro Pesantes</h3>
+             <h3 class ="cen">External Vice President
+             <br>Gennaro Pesantes</h3>
         </div>
     </div>
          <br>
     <div class = "row">
         <div class = "col-sm-3">
-            <h3 class ="cen">Secretary</h3>
             <img class = "img-circle" src= "image/Larry.jpg">
-            <h3 class ="cen">Larry Blanco</h3>
+             <h3 class ="cen">Secretary
+            <br>Larry Blanco</h3>
         </div>
     
         
         <div class = "col-sm-3">
-            <h3 class ="cen">Treasure</h3>
+          
             <a href="https://www.linkedin.com/profile/view?id=AAkAABpktVoBJYggSroW6yrhxraRSrWQSjU_IcA&authType=NAME_SEARCH&authToken=O50f&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A442807642%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1443240890592%2Ctas%3Aedgar" target = "blank">
             <img  class="img-circle"src ="image/Edgar.jpg"></a>
-            <h3 class ="cen">Edgar Lucero</h3>
+              <h3 class ="cen">Treasure
+            <br>Edgar Lucero</h3>
         </div>
         
         <div class = "col-sm-3">
-            <h3 class ="cen">Programs Chair</h3>
+            
             <a href="https://www.linkedin.com/profile/view?trk=contacts-contacts-list-contact_name-0&id=141497705" target="_blank">
        <img class ="img-circle"src="image/yani.jpg"></a>
-
-            <h3 class ="cen">Yanilda Peralta</h3>
+            <h3 class ="cen">Programs Chair
+            <br>Yanilda Peralta</h3>
         </div>
       
          <div class = "col-sm-3">
-             <h3 class ="cen">Finance Chair</h3>
+            
               <a href="https://www.linkedin.com/profile/view?trk=contacts-contacts-list-contact_name-0&id=241602963" target="_blank">
         <img class= "img-circle" src="image/Rod.jpg" alt="lehman nsbe finance chair"></a>
-
-             <h3 class ="cen">Rodny Perez</h3>
+              <h3 class ="cen">Finance Chair
+             <br>Rodny Perez</h3>
         </div>
     </div>
          
@@ -163,29 +162,31 @@
     <div class = "row">
         
         <div class = "col-sm-3">
-            <h3 class ="cen">Tech Excellence Chair 1</h3>
+   
                      <a href="https://www.linkedin.com/profile/view?id=438104648&authType=name&authToken=BjIe&trk=ngroups_module_your_followers-b-nm" target="_blank"><img class="img-circle" src="image/zain.jpg" alt = "lehman tech excellence chair"></a>
-            <h3 class ="cen">Zain Raza</h3>
+            <h3 class ="cen">Tech Excellence Chair 1<br>Zain Raza</h3>
         </div>
     
         <div class = "col-sm-3">
-            <h3 class ="cen">Tech Excellence Chair                  2</h3><a href="https://www.linkedin.com/profile/view?id=167551722&authType=NAME_SEARCH&authToken=APds&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A167551722%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1440344688347%2Ctas%3Arube" target="_blank" alt = "lehman tech excellence2"><img class="img-circle" src="image/ruber.jpg"></a>
-            <h3 class ="cen">Ruber Montes De Oca</h3>
+            <a href="https://www.linkedin.com/profile/view?id=167551722&authType=NAME_SEARCH&authToken=APds&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A167551722%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1440344688347%2Ctas%3Arube" target="_blank" alt = "lehman tech excellence2"><img class="img-circle" src="image/ruber.jpg"></a>
+            <h3 class ="cen">Tech Excellence Chair                  2
+            <br>Ruber Montes De Oca</h3>
         </div>
         
         <div class = "col-sm-3">
-            <h3 class ="cen">Projects Chair</h3>
+            
             <a href="https://www.linkedin.com/profile/view?id=AAMAAAvm9mMBAobDReTV2taV2HFZMJ9va5PD0MQ&authType=name&authToken=RvtI&trk=hp-feed-member-name" target="_blank">
             <img class="img-circle" src="image/ariel.jpg"></a>
-            <h3 class ="cen">Ariel Maduro</h3>
+            <h3 class ="cen">Projects Chair
+            <br>Ariel Maduro</h3>
         </div>
         
           <div class = "col-sm-3">
-            <h3 class ="cen">Membership Chair</h3>
+          
             <a href="https://www.linkedin.com/profile/view?id=AAkAABZku2MBsVV2y0yxFjTi2U1ims4i01pbqPQ&authType=NAME_SEARCH&authToken=Knj_&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A375700323%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1444192435189%2Ctas%3Aauro" target="_blank">
             <img class="img-circle" src="image/koch.png"></a>
-            <h3 class ="cen">Aurora Koch-Pongsema
-              </h3>
+                <h3 class ="cen">Membership Chair
+            <br>Aurora Koch-Pongsema</h3>
         </div>
       
         
