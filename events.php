@@ -34,7 +34,7 @@
 					<td>September 9, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>Student Life Building 121</td>
-                    <td><a class="btn btn-sm btn-primary eventbtn" href="http://goo.gl/forms/4IXeAuz2JD" role="button" target="_blank">Sign Up</a></td>
+                    <td><a class="btn btn-sm btn-primary eventbtn" href="#" role="button" target="">Sign Up</a></td>
                      
 				</tr>
                 <tr>
@@ -48,7 +48,7 @@
 					<td>September 16, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>Student Life Building 121</td>
-                    <td><a class="btn btn-sm btn-primary eventbtn" href="http://goo.gl/forms/jrb3O9o0Ks" role="button" target="_blank">Sign Up</a>
+                    <td><a class="btn btn-sm btn-primary eventbtn" href="#" role="button" target="">Sign Up</a>
                     </td>                        
 				</tr>
 				
@@ -63,7 +63,7 @@
 					<td>September 24, 2015</td>
 					<td>3:00pm-4:00pm</td>
 					<td>Student Life Building 121</td>
-                    <td><a class="btn btn-sm btn-primary eventbtn" href="http://goo.gl/forms/sXPydnYw6a" role="button" target="_blank">Sign Up</a> </td>
+                    <td><a class="btn btn-sm btn-primary eventbtn" href="#" role="button" target="">Sign Up</a> </td>
 				</tr>  
                     
                       <tr>
@@ -76,7 +76,7 @@
 					<td>September 30, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>Student Life Building 121</td>
-                    <td><a class="btn btn-sm btn-primary eventbtn" href="http://goo.gl/forms/A1okf10ZDg" role="button" target="_blank">Sign Up</a></td>
+                    <td><a class="btn btn-sm btn-primary eventbtn" href="#" role="button" target="">Sign Up</a></td>
 				</tr>
                     
                 <tr >
@@ -105,7 +105,7 @@
 					<td>October 1, 2015</td>
 					<td>4:00pm-5:30pm</td>
 					<td>Gilet Hall Room 231</td>
-                    <td><a class="btn btn-sm btn-primary eventbtn" href="http://goo.gl/forms/EbtB2atljr" role="button" target="_blank">Sign Up</a></td>
+                    <td><a class="btn btn-sm btn-primary eventbtn" href="#" role="button" target="">Sign Up</a></td>
 				</tr>
                       <tr>
                     <td class = "test" colspan = "6">This workshop is a refresher for individuals who want to improve their existing resumes so that that they clearly and concisely reflect their skills, professional experience, accomplishments, knowledge, and education. </td>    
@@ -118,7 +118,7 @@
 					<td>October 7, 2015</td>
 					<td>6:15pm-7:30pm</td>
 					<td>Student Life Building 222</td>
-                    <td><a class="btn btn-sm btn-primary eventbtn" href="http://goo.gl/forms/GUGV8qWbRL" role="button" target="_blank">Sign Up</a></td>
+                    <td><a class="btn btn-sm btn-primary eventbtn" href="#" role="button" target="">Sign Up</a></td>
 				</tr>
 				
                     <td class = "test" colspan = "6">Students will begin to learn how to create bank account using java. Students will code in class. </td>    
