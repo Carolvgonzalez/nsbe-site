@@ -156,7 +156,7 @@
 					<td>October 16-17, 2015</td>
 					<td>9:00am-12:30pm</td>
 					<td>East Dinning Hall</td>
-                    <td><a class="btn btn-sm btn-primary eventbtn" href="http://goo.gl/forms/qXDBDE3Z7r" role="button" target="_blank">Sign Up</a></td>
+                    <td><a class="btn btn-sm btn-primary eventbtn" href="#" role="button" target="">Sign Up</a></td>
 				</tr>
                   
 <td class = "test" colspan = "6">Our 2nd Annual Hackathon.  </td>    

@@ -12,8 +12,8 @@
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
-       <li data-target="#myCarousel" data-slide-to="3"></li>
-          <li data-target="#myCarousel" data-slide-to="4"></li>
+       <!--<li data-target="#myCarousel" data-slide-to="3"></li>
+          <li data-target="#myCarousel" data-slide-to="4"></li> -->
           
       </ol>
       <div class="carousel-inner" role="listbox">
@@ -22,11 +22,10 @@
           <div class="container">
             <div class="carousel-caption">
               <h1 class="welcome">WELCOME TO OUR CLUB</h1>
-              <p class = "jobs">
-             2nd Annual Hackathon <br>
-            Deadline to apply is October 9, 2015. Sign up today!
+              <p class = "ns">
+             We are committed to helping our students find internships  jobs <br>and graduate successfully. Join us for a life changing experience! <br>Meet amazing people and expand your skills.
         </p> 
-              <a class="btn btn-lg btn-primary" href="http://goo.gl/forms/qXDBDE3Z7r" role="button" target="_blank">Sign Up</a>
+              <a class="btn btn-lg btn-primary" href="https://docs.google.com/forms/d/1BT4iKUTAvzPNStKznYO3wwDFDzTOK-v1pJAExyJUXvI/viewform?c=0&w=1" role="button" target="_blank">Newsletter</a>
             </div>
           </div>
         </div>
@@ -35,7 +34,7 @@
           <div class="container">
             <div class="carousel-caption">
               <h1 class = "nsbe">NSBE Lehman</h1>
-              <p class ="ns">We are committed to helping our students find internships  jobs <br>and graduate successfully. Join us for a life changing experience! <br>Meet amazing people and expand your skills</p>
+              <p class ="ns">We create events that help you learn and grow within your field.<br> To get up to date information on all our events Sign up for our newsletter.</p>
               <a class="btn btn-lg btn-primary" href="https://docs.google.com/forms/d/1BT4iKUTAvzPNStKznYO3wwDFDzTOK-v1pJAExyJUXvI/viewform?c=0&w=1" role="button" target="_blank">Newsletter</a>
             </div>
           </div>
@@ -49,7 +48,7 @@
             </div>
           </div>
         </div>
-        <div class="item">
+      <!--  <div class="item">
           <img class="fifth-slide" id="carousel-image" src="image/ok.png" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
