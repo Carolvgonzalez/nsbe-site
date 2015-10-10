@@ -5,7 +5,7 @@
     <!-- jQuery (For Bootstrap's plugins) -->
 
     <div class="welcome-section">
-   <img id= "an" src = "image/java.png">
+   <img id= "an" src = "image/java.jpg">
 	<div class="welcome-section-text"> <!--id="welcome-header" -->
 </div>
 </div><!--Closes welcome-section div -->

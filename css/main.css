@@ -48,7 +48,7 @@ h4 {
 .welcome-section {
     background-position:left top; 
     height: 645px;
-    margin-top: 30px;
+    margin-top: 40px;
     display: table-row;
     text-align: left;
     width: 100%;
@@ -303,7 +303,6 @@ letter-spacing: 2px;
 }
 
 #an {
-    
     width: 100%;
     opacity: 1.0;
 }

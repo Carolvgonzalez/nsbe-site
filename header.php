@@ -58,8 +58,7 @@
         <li><a href="events.php">EVENTS</a></li>
         <li role="presentation" class="dropdown"><a class="dropdown-toggle"  href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HACKATHON<span class="caret"></span></a>
           <ul class="dropdown-menu">
-              <li><a href="hackathon.php">Apply</a></li>
-              <li><a href="mission.php">Hackathon Information</a></li>
+    <li><a href="mission.php">Hackathon Information</a></li>
               <li><a href = "rules.php">Rules and FAQ</a></li>
             </ul>
           
