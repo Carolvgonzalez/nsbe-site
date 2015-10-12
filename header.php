@@ -39,7 +39,7 @@
   </head>
      
   <!-- Top Navigation Bar -->
-    <br><br>
+    <br>
 <body>
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
   <div class="container-fluid">
@@ -49,7 +49,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span> 
       </button>
-      <img id="header-nsbe-image" src="image/NSBE_logo.jpg" alt="NSBE Logo" align="left">
+      <img id="header-nsbe-image" src="image/logo.png" alt="NSBE Logo" align="left">
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
