@@ -244,7 +244,7 @@ h5 {
 
 .hac{
 font-size: 2.5em;    
-margin-top: 60px;   
+margin-top: 85px;   
 margin-bottom: 10px; 
 letter-spacing: 2px;
 }
@@ -268,7 +268,7 @@ letter-spacing: 2px;
 .miss{
     display: inline-block;
   background-color: rgba(230,230,230, 0.5); 
-  height: 325px;
+  height: 330px;
   width: 100%;
   
 }
@@ -290,7 +290,7 @@ letter-spacing: 2px;
     
 
 .history {
-    margin-top: 70px;
+    margin-top: 85px;
 }
 
 .join {
@@ -303,7 +303,7 @@ letter-spacing: 2px;
 }
 
 #an {
-    margin-top: 10%;
+    margin-top: 75px;
     width: 100%;
     opacity: 1.0;
    
@@ -520,10 +520,9 @@ letter-spacing: 2px;
 }
 
 .rule {
-    margin-top: 40px;
+    margin-top: 60px;
     font-size: 2.5em;
     letter-spacing: 2px;
-  
 }
 
 .register {
@@ -561,3 +560,5 @@ letter-spacing: 2px;
 .navbar-inverse {
     background-color:#b4eeb4;
 }
+
+
