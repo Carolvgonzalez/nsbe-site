@@ -87,7 +87,6 @@
     <!-- End of carousel -->     
 <div id="members-section">
     <h2 class ="national">National Society of Black Engineers<br>E-Board Members</h2> 
-    <p class="cen">To learn more about our members click on their image. Don't worry, we're friendly.</p>
     <hr>
 </div>
     
@@ -95,7 +94,7 @@
     <div class = "row">
         <div class = "col-sm-3">
             
-                                <a href="https://www.linkedin.com/profile/view?id=AAEAABiUgUgBTPZedSNVTOQdrr8MqlpKIQo_krw&authType=name&authToken=PrTd&trk=prof-sb-browse_map-name" target="_blank">
+                  
             <img class= "bo img-circle" src= "image/dana.jpg">
             <h3 class ="cen">Founder
             <br>Dana Smith</h3>
@@ -103,8 +102,8 @@
     
         <div class = "col-sm-3">
             
-            <a href="https://www.linkedin.com/profile/view?id=350443151&authType=NAME_SEARCH&authToken=wQHI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A350443151%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1440344752422%2Ctas%3Aca" target="_blank">
-            <img class= "bo img-circle" src ="image/carola.jpg"></a>
+            
+            <img class= "bo img-circle" src ="image/carola.jpg">
             <h3 class ="cen">President
             <br>Carol Gonzalez</h3>
         </div>
@@ -117,11 +116,11 @@
         </div>
       
          <div class = "col-sm-3">
-             
-             <a href="https://www.linkedin.com/profile/view?id=422002758&authType=name&authToken=O4BD&trk=ngroups_module_your_followers-b-nm" target="_blank"><img class = "bo img-circle" src="image/gennaro.jpg" alt ="nsbe special project chair"></a>
-             <h3 class ="cen">External Vice President
-             <br>Gennaro Pesantes</h3>
+                <img class= "bo img-circle" src ="image/gennaro.jpg">
+            <h3 class ="cen">External Vice President
+            <br>Gennaro Pes</h3>
         </div>
+        
     </div>
          <br>
     <div class = "row">
@@ -131,27 +130,24 @@
             <br>Larry Blanco</h3>
         </div>
     
-        
+             
         <div class = "col-sm-3">
           
-            <a href="https://www.linkedin.com/profile/view?id=AAkAABpktVoBJYggSroW6yrhxraRSrWQSjU_IcA&authType=NAME_SEARCH&authToken=O50f&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A442807642%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1443240890592%2Ctas%3Aedgar" target = "blank">
+      
             <img  class="img-circle"src ="image/Edgar.jpg"></a>
               <h3 class ="cen">Treasure
             <br>Edgar Lucero</h3>
         </div>
         
         <div class = "col-sm-3">
-            
-            <a href="https://www.linkedin.com/profile/view?trk=contacts-contacts-list-contact_name-0&id=141497705" target="_blank">
-       <img class ="img-circle"src="image/yani.jpg"></a>
+       <img class ="img-circle"src="image/yani.jpg">
             <h3 class ="cen">Programs Chair
             <br>Yanilda Peralta</h3>
         </div>
       
          <div class = "col-sm-3">
             
-              <a href="https://www.linkedin.com/profile/view?trk=contacts-contacts-list-contact_name-0&id=241602963" target="_blank">
-        <img class= "img-circle" src="image/Rod.jpg" alt="lehman nsbe finance chair"></a>
+        <img class= "img-circle" src="image/Rod.jpg" alt="lehman nsbe finance chair">
               <h3 class ="cen">Finance Chair
              <br>Rodny Perez</h3>
         </div>
@@ -162,20 +158,17 @@
     <div class = "row">
         
         <div class = "col-sm-3">
-   
-                     <a href="https://www.linkedin.com/profile/view?id=438104648&authType=name&authToken=BjIe&trk=ngroups_module_your_followers-b-nm" target="_blank"><img class="img-circle" src="image/zain.jpg" alt = "lehman tech excellence chair"></a>
+   <img class="img-circle" src="image/zain.jpg" alt = "lehman tech excellence chair">
             <h3 class ="cen">Tech Excellence Chair 1<br>Zain Raza</h3>
         </div>
     
         <div class = "col-sm-3">
-            <a href="https://www.linkedin.com/profile/view?id=167551722&authType=NAME_SEARCH&authToken=APds&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A167551722%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1440344688347%2Ctas%3Arube" target="_blank" alt = "lehman tech excellence2"><img class="img-circle" src="image/ruber.jpg"></a>
+            <img class="img-circle" src="image/ruber.jpg">
             <h3 class ="cen">Tech Excellence Chair                  2
             <br>Ruber Montes De Oca</h3>
         </div>
         
         <div class = "col-sm-3">
-            
-            <a href="https://www.linkedin.com/profile/view?id=AAMAAAvm9mMBAobDReTV2taV2HFZMJ9va5PD0MQ&authType=name&authToken=RvtI&trk=hp-feed-member-name" target="_blank">
             <img class="img-circle" src="image/ariel.jpg"></a>
             <h3 class ="cen">Projects Chair
             <br>Ariel Maduro</h3>
@@ -183,9 +176,9 @@
         
           <div class = "col-sm-3">
           
-            <a href="https://www.linkedin.com/profile/view?id=AAkAABZku2MBsVV2y0yxFjTi2U1ims4i01pbqPQ&authType=NAME_SEARCH&authToken=Knj_&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A375700323%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1444192435189%2Ctas%3Aauro" target="_blank">
-            <img class="img-circle" src="image/koch.png"></a>
-                <h3 class ="cen">Membership Chair
+            
+            <img class="img-circle" src="image/koch.png">
+<h3 class ="cen">Membership Chair
             <br>Aurora Koch-Pongsema</h3>
         </div>
       
