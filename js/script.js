@@ -1,18 +1,12 @@
 $(document).ready(function(){
 	$("#Calender").accordion({event: "mouseover",
-                             heightStyle: "content"});
+heightStyle: "content", active: 1
+                             });
+    $("#Calender").accordion("activate", 1);
     
     $('.beta').click(function(){
         $(this).next().children('.test').toggle();
     });
   
-    
- /*   $('.beta').click(function(){
-        $('.test').hide();
-    });
-    
-    $('.beta').click(function(){
-        $('.test').show();
-    });  */
     
     });

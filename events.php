@@ -86,7 +86,6 @@
             </table>
             </div>
 
-        
 			<h3>October 2015</h3>
 			<div> 	
 				<table class = "table table-hover">

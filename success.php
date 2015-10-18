@@ -67,8 +67,8 @@
                 
                 <div class = "col-sm-3">
                 <img class="img-circle" src="image/Collin.png" id="success-pictures" alt="collin goldman sachs">                
-                <h3 id ="ss">Collin Morgan</h3>
-                    <p class = "suc">A Lehman College Student, worked for the Lehman Newspaper and Computer Science major. He began programming at a young age and currently has a game on the app store called "wordslide". He interviewed Ms. Smith for the school newspaper, she encouraged him to attend our first annual NSBE Hackathon. <p class = "suc">During the our hackathon he met Goldman Sachs and obtained a summer 2015 internship. He had great experience with Goldman Sachs. During his internship he attend several Goldman sachs events and won 3 Goldman Sachs competitions. Thanks to NSBE he has been offered to return internship for summer 2016. </p>
+                <h3 id ="ss">Colin Morgan</h3>
+                    <p class = "suc">A Lehman College Student, worked for the Lehman Newspaper and Computer Science major. He began programming at a young age and currently has a game on the app store called "Word Slide". He interviewed Ms. Smith for the school newspaper, she encouraged him to attend our first annual NSBE Hackathon. <p class = "suc">During the our hackathon he met Goldman Sachs and obtained a summer 2015 internship. He had great experience with Goldman Sachs. During his internship he attend several Goldman sachs events and won 3 Goldman Sachs competitions. Thanks to NSBE he has been offered to return internship for summer 2016. </p>
                 
                 </div>
                 
