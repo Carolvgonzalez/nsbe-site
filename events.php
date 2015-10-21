@@ -4,13 +4,6 @@
 
     <!-- jQuery (For Bootstrap's plugins) -->
 
-    <div class="welcome-section">
-   <img id= "an" src = "image/wordcloud.jpg">
-	<div class="welcome-section-text"> <!--id="welcome-header" -->
-</div>
-</div><!--Closes welcome-section div -->
-
-<section class = "container-fluid">
     <!-- Events -->
 	<div id="Calender"> 
 		<h3>September 2015 </h3>
@@ -335,7 +328,5 @@
         <a href="https://twitter.com/nsbelehman" target="_blank"><img id="social-media-icon" src="social/tweet.png"></a>
                 </p>
     </div>
-      <footer>
-      </footer>
   </body>
 </html>	
