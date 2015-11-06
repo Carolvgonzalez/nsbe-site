@@ -8,6 +8,7 @@
     <title>NSBE Lehman</title>8ins) -->
     <script src="js/jquery.min.js"></script>  
       
+      <script src="js/lightbox.min.js"></script>
     <!-- Link to Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -19,7 +20,9 @@
       
     <!-- Custom CSS file -->
     <link href="css/main.css" rel="stylesheet">
-        
+    
+    <link href="css/lightbox.css" rel="stylesheet">  
+      
     <script src = "js/script.js" type="text/javascript"></script>  
       
       
@@ -58,8 +61,12 @@
         <li><a href="events.php">EVENTS</a></li>
         <li role="presentation" class="dropdown"><a class="dropdown-toggle"  href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HACKATHON<span class="caret"></span></a>
           <ul class="dropdown-menu">
-    <li><a href="mission.php">Hackathon Information</a></li>
+    <li><a href="mission.php">Fall-2015 Photos </a></li>
+              
+     <li><a href="springHack.php">Sping-2015 Photos </a></li>
              
+       <li><a href="first.php">Fall-2014 Photos </a></li>
+                      
             </ul>
           
           </li>

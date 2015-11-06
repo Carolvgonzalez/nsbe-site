@@ -4,6 +4,7 @@
 
     <!-- jQuery (For Bootstrap's plugins) -->
 
+<section class = "container-fluid eve">
     <!-- Events -->
 	<div id="Calender"> 
 		<h3>September 2015 </h3>
@@ -328,5 +329,6 @@
         <a href="https://twitter.com/nsbelehman" target="_blank"><img id="social-media-icon" src="social/tweet.png"></a>
                 </p>
     </div>
+
   </body>
 </html>	
