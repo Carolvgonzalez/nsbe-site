@@ -56,7 +56,7 @@
           </div>
         </div>
       <div class="item">
-          <img class="fifth-slide" id="carousel-image" src="images/2.png" alt="Second slide">
+          <img class="fifth-slide" id="carousel-image" src="images/2.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
              <p class= "ns">Check out our pictures and events.</p>
@@ -66,7 +66,7 @@
         </div>
           
            <div class="item">
-          <img class="six-slide" id="carousel-image" src="images/3.png" alt="Second slide">
+          <img class="six-slide" id="carousel-image" src="images/3.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
               <h1 class ="nsbe">We are leaders</h1>
