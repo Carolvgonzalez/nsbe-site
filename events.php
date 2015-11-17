@@ -1,9 +1,15 @@
 <?php include("header.php"); ?>     
-    <div>
+      <div class="item">
           <img class="first-slide" id="carousel-image" src="images/bks.jpg" alt="First slide">
-            <h1 class="welcome">WELCOME TO OUR CLUB</h1>
-    </div>
-
+          <div class="container">
+            <div class="carousel-caption">
+              <h1 class="welcome">Lehman NSBE Events</h1>  
+             <p class= "ns">Check out featured events.</p>
+              
+            </div>
+          </div>
+        </div>   
+<div>
 
     <!-- jQuery (For Bootstrap's plugins) -->
 

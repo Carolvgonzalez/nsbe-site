@@ -141,7 +141,7 @@
           
       
             <img  class="img-circle"src ="images/Edgar.jpg"></a>
-              <h3 class ="cen">Treasure
+              <h3 class ="cen">Treasurer
             <br>Edgar Lucero</h3>
         </div>
         
