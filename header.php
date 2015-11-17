@@ -8,7 +8,7 @@
     <title>NSBE Lehman</title>8ins) -->
     <script src="js/jquery.min.js"></script>  
       
-      <script src="js/lightbox.min.js"></script>
+
     <!-- Link to Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -20,8 +20,8 @@
       
     <!-- Custom CSS file -->
     <link href="css/main.css" rel="stylesheet">
-    
-    <link href="css/lightbox.css" rel="stylesheet">  
+        <link href="css/lightbox.css" rel="stylesheet">
+  
       
     <script src = "js/script.js" type="text/javascript"></script>  
       
@@ -52,7 +52,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span> 
       </button>
-      <img id="header-nsbe-image" src="image/logo.png" alt="NSBE Logo" align="left">
+      <img id="header-nsbe-image" src="images/logo.png" alt="NSBE Logo" align="left">
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
@@ -62,11 +62,7 @@
         <li role="presentation" class="dropdown"><a class="dropdown-toggle"  href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HACKATHON<span class="caret"></span></a>
           <ul class="dropdown-menu">
     <li><a href="mission.php">Fall-2015 Photos </a></li>
-              
-     <li><a href="springHack.php">Sping-2015 Photos </a></li>
-             
-       <li><a href="first.php">Fall-2014 Photos </a></li>
-                      
+                    
             </ul>
           
           </li>
@@ -76,8 +72,12 @@
   </div>
 </nav>
     
+ 
     
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	
 	<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+    
+
+<script src="js/lightbox.js"></script>   

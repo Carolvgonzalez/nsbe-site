@@ -1,5 +1,8 @@
 <?php include("header.php"); ?>     
-
+    <div>
+          <img class="first-slide" id="carousel-image" src="images/bks.jpg" alt="First slide">
+            <h1 class="welcome">WELCOME TO OUR CLUB</h1>
+    </div>
 
 
     <!-- jQuery (For Bootstrap's plugins) -->
