@@ -1,11 +1,11 @@
 <?php include("header.php"); ?>     
       <div class="item">
-          <img class="first-slide" id="carousel-image" src="images/bks.jpg" alt="First slide">
+          <img class="first-slide" id="carousel-image" src="images/banner.png" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
               <h1 class="welcome">Lehman NSBE Events</h1>  
-             <p class= "ns">Check out featured events.</p>
-              
+             <p class= "ns">Check out our pictures and events.</p>
+              <a class="btn btn-lg btn-primary" href="https://docs.google.com/forms/d/1BT4iKUTAvzPNStKznYO3wwDFDzTOK-v1pJAExyJUXvI/viewform?c=0&w=1" role="button" target="_blank">Newsletter</a>
             </div>
           </div>
         </div>   
